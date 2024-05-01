@@ -1,6 +1,6 @@
 - Hi, I’m Nate
 - Looking to collaborate on a project?
-- You're at the right place! 
+- You've come to the right place! 
 - Let's connect and find out how we can bring the project to life!
 - Contact: nathan@lifehouse.dev
 <!---
