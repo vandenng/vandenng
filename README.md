@@ -1,7 +1,7 @@
 - Hi, I’m Nate
-- I’m currently expanding my horizons in python programming and Gitlab Pages.
-- I’m looking to collaborate an anything I can get my hands on; I love to learn.
-- How to reach me: https://linktr.ee/Nate_VandenHoek
+- Looking to collaborate on a project?
+- You're at the right place! 
+- Let's connect and find out how we can bring the project to life!
 
 <!---
 vandenng/vandenng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
